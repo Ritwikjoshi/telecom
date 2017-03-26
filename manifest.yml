@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 128M
   instances: 1
-  domain: au-syd.mybluemix.net
-  name: telecom
-  host: telecom
+  domain: mybluemix.net
+  name: icostelecom
+  host: icostelecom
   disk_quota: 1024M
